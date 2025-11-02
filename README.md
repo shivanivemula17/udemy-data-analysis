@@ -22,7 +22,7 @@ This project analyzes Udemy's course dataset to uncover **trends in course popul
 - **Jupyter Notebook**  
 
 ## 📊 Sample Analysis  
-### 🔹 1. Most Popular Course Categories  
+### 🔹 Most Popular Course Categories  
 ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -42,3 +42,13 @@ plt.xlabel("Category")
 plt.ylabel("Number of Courses")
 plt.xticks(rotation=45)
 plt.show()
+
+```
+<hr>
+<p align="center">
+  <img src="Udemy.png" alt="Udemy" width="800">
+</p>
+
+
+
+
